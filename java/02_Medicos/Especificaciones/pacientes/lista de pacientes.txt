@@ -1,0 +1,7 @@
+Descripción
+El sistema debe tener una funcionalidad de listado de pacientes en la que se deben mostrar la siguiente información de cada uno de los pacientes registrados:
+
+Nombre
+Correo electrónico
+documento
+La lista debe estar ordenada por nombre del paciente en orden ascendente y paginada, mostrando 10 registros por página.

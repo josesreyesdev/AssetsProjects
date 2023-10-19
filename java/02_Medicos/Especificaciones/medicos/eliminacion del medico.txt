@@ -1,0 +1,6 @@
+Descripción
+El sistema debe tener una funcionalidad que permita la eliminación de médicos registrados.
+
+El sistema debe validar las siguientes reglas de negocio:
+
+La eliminación no debe borrar los datos del médico, sino que debe hacer que el médico sea "inactivo" en el sistema.

@@ -1,0 +1,9 @@
+Descripción
+El sistema debe tener una funcionalidad de registro de pacientes en la que se deben completar la siguiente información:
+
+Nombre
+Correo electrónico
+Teléfono
+documento
+Dirección completa (calle, número, complemento, barrio, ciudad, estado y código postal)
+Toda la información es obligatoria, excepto el número y el complemento de la dirección.

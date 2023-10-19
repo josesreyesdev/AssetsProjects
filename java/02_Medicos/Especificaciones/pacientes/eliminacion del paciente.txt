@@ -1,0 +1,6 @@
+Descripción
+El sistema debe tener una funcionalidad que permita la eliminación de pacientes registrados.
+
+El sistema debe validar las siguientes reglas de negocio:
+
+La eliminación no debe borrar los datos del paciente, sino que debe hacer que el paciente sea "inactivo" en el sistema.

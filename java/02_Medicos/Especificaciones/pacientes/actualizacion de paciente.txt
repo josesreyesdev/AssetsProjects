@@ -1,0 +1,10 @@
+Descripción
+El sistema debe tener una funcionalidad de actualización de los datos de registro de pacientes en la que se podrán actualizar las siguientes informaciones:
+
+Nombre
+Teléfono
+Dirección
+El sistema debe validar las siguientes reglas de negocio:
+
+No permitir la modificación del correo electrónico del paciente;
+No permitir la modificación del documentodel paciente.

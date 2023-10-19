@@ -1,0 +1,8 @@
+Descripción
+El sistema debe tener una funcionalidad de listado de médicos en la que se debe mostrar la siguiente información de cada uno de los médicos registrados:
+
+Nombre
+Correo electrónico
+documento
+Especialidad
+La lista debe estar ordenada por nombre del médico en orden ascendente y paginada, mostrando 10 registros por página.

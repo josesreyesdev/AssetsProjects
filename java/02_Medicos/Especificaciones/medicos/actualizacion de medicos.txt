@@ -1,0 +1,11 @@
+Descripción
+El sistema debe tener una funcionalidad de actualización de los datos de registro de médicos en la que se podrán actualizar las siguientes informaciones:
+
+Nombre
+Teléfono
+Dirección
+El sistema debe validar las siguientes reglas de negocio:
+
+No permitir la modificación del correo electrónico del médico;
+No permitir la modificación del documento del médico;
+No permitir la modificación de la especialidad del médico.

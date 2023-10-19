@@ -1,0 +1,10 @@
+Descripción
+El sistema debe tener una funcionalidad de registro de médicos en la que se deben completar las siguientes informaciónes:
+
+Nombre
+Correo electrónico
+Teléfono
+documento
+Especialidad (Ortopedia, Cardiología, Ginecología o Dermatología)
+Dirección completa (calle, número, complemento, barrio, ciudad, estado y código postal)
+Toda la información es obligatoria, excepto el número y el complemento de la dirección.
